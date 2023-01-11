@@ -1,0 +1,17 @@
+C:\Source Code\OOP\Lab003\Lab003\bin\Debug\net6.0-windows\Lab003.exe
+C:\Source Code\OOP\Lab003\Lab003\bin\Debug\net6.0-windows\Lab003.deps.json
+C:\Source Code\OOP\Lab003\Lab003\bin\Debug\net6.0-windows\Lab003.runtimeconfig.json
+C:\Source Code\OOP\Lab003\Lab003\bin\Debug\net6.0-windows\Lab003.dll
+C:\Source Code\OOP\Lab003\Lab003\bin\Debug\net6.0-windows\Lab003.pdb
+C:\Source Code\OOP\Lab003\Lab003\obj\Debug\net6.0-windows\Lab003.csproj.AssemblyReference.cache
+C:\Source Code\OOP\Lab003\Lab003\obj\Debug\net6.0-windows\Lab003.Form1.resources
+C:\Source Code\OOP\Lab003\Lab003\obj\Debug\net6.0-windows\Lab003.csproj.GenerateResource.cache
+C:\Source Code\OOP\Lab003\Lab003\obj\Debug\net6.0-windows\Lab003.GeneratedMSBuildEditorConfig.editorconfig
+C:\Source Code\OOP\Lab003\Lab003\obj\Debug\net6.0-windows\Lab003.AssemblyInfoInputs.cache
+C:\Source Code\OOP\Lab003\Lab003\obj\Debug\net6.0-windows\Lab003.AssemblyInfo.cs
+C:\Source Code\OOP\Lab003\Lab003\obj\Debug\net6.0-windows\Lab003.csproj.CoreCompileInputs.cache
+C:\Source Code\OOP\Lab003\Lab003\obj\Debug\net6.0-windows\Lab003.dll
+C:\Source Code\OOP\Lab003\Lab003\obj\Debug\net6.0-windows\refint\Lab003.dll
+C:\Source Code\OOP\Lab003\Lab003\obj\Debug\net6.0-windows\Lab003.pdb
+C:\Source Code\OOP\Lab003\Lab003\obj\Debug\net6.0-windows\Lab003.genruntimeconfig.cache
+C:\Source Code\OOP\Lab003\Lab003\obj\Debug\net6.0-windows\ref\Lab003.dll
